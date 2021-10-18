@@ -249,7 +249,7 @@ const houseSize = (arr) => {
 };
 
 houseSize(["Stark", 7, "Arryn", 3]); // => [{ house: 'Stark', members: 7 }, { house: 'Arryn', members: 3 }]
-// console.log(houseSize(["Stark", 7, "Arryn", 3]));
+
 //  CHALLENGE 7
 
 const uniqueDogs = {
